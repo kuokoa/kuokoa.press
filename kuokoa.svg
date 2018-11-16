@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 300">
+  <g id="kuokoa" transform="translate(5, 5)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+      <circle id="mahina" stroke="#fff" stroke-width="5" cx="120" cy="80" r="80"></circle>
+      <polygon id="moku" fill="#fff" fill-rule="nonzero" points="119.998 80 200 190 40 190"></polygon>
+      <polyline id="wai" stroke="#fff" stroke-width="5" transform="translate(120, 229.802733) rotate(-180) translate(-120, -229.802733) " points="240 209.999999 200 249.605468 160 209.999999 120 249.605468 80 209.999999 40 247.605468 0 209.999999"></polyline>
+      <polyline id="kai" stroke="#fff" stroke-width="5" transform="translate(120, 269.802733) rotate(-180) translate(-120, -269.802733) " points="240 249.999999 200 289.605468 160 249.999999 119.777344 287.605468 80 249.999999 40 289.605468 0 249.999999"></polyline>
+  </g>
+</svg>
